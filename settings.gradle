@@ -1,6 +1,4 @@
+rootProject.name = 'mvcandwebfluxtester'
 
-
-rootProject.name = 'demo'
-
-include 'user'
-include 'contents'
+include 'mvc'
+include 'webflux'
